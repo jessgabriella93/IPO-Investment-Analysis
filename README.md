@@ -20,7 +20,7 @@ This project applies **machine learning** to predict whether IPO (Initial Public
 
 **Accuracy:** 93% overall  
 **Good investments (Class 2):** Precision 94%, Recall 97%, F1-score 0.96  
-**Bad investments (Class 1):** Precision 78%, Recall 61%, F1-score 0.69
+**Bad investments (Class 1):** Precision 78%, Recall 61%, F1-score 0.69  
 **Top features:** trading volume Day 1, close price Day 0, trading volume Day 0, Year, and the number of days stocks are profitable  
 
 ## Insights  
