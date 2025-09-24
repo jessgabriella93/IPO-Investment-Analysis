@@ -9,7 +9,7 @@ This project applies machine learning to predict whether an IPO (Initial Public 
   - Engineered features such as **5-day, 30-day, and 90-day returns** after IPO.  
 
 **Target Definition**  
-  - 2 = Good investment → Outperformed S&P 500 for ≥90 days or had positive 90-day return.  
+  - 2 = Good investment → Outperformed the S&P 500 for ≥90 days or had positive 90-day return.  
   - 1 = Bad investment  
 
 **Modeling**  
