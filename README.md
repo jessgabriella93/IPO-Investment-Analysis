@@ -5,7 +5,7 @@ This project applies **machine learning** to predict whether IPO (Initial Public
 ## Process  
 
 **Data Preparation**  
-  - Cleaned missing values, standardized categorical labels, and formatted dates/financial fields.  
+  - Cleaned missing values, standardized categorical labels, and formatted dates field.  
   - Engineered features such as **5-day, 30-day, and 90-day returns** after IPO.  
 
 **Target Definition**  
