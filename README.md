@@ -1,6 +1,6 @@
 ## IPO Investment Analysis  
 
-This project applies **machine learning** to predict whether an IPO (Initial Public Offering) is a **good or bad investment**. Using the S&P 500 as the benchmark, IPO details, CEO attributes, and sector indicators, the model evaluates post-IPO performance to guide investment decisions.  
+This project applies **machine learning** to predict whether IPO (Initial Public Offering) stocks are **good or bad investments**. Using the S&P 500 as the benchmark, IPO details, CEO attributes, and sector indicators, the model evaluates post-IPO performance to guide investment decisions.  
 
 ## Process  
 
