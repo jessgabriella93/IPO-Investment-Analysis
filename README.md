@@ -1,7 +1,4 @@
-## IPO-Investment-Analysis
-Machine learning project that predicts whether an IPO is a good or bad investment using financials, sector data, and post-IPO returns. Trained a Random Forest Classifier with 93% accuracy.
-
-## IPO Investment Prediction  
+## IPO Investment Analysis  
 
 This project applies machine learning to predict whether an IPO (Initial Public Offering) is a **good or bad investment**. Using company financials, IPO details, CEO attributes, and sector/industry indicators, the model evaluates post-IPO performance to guide investment decisions.  
 
